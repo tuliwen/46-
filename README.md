@@ -1,5 +1,4 @@
-## 46界世界技能大赛 商务软件开发样题 个人开发存储
-Spring Boot 学习示例
+46界世界技能大赛 商务软件开发样题 个人开发存储
 =========================
 
 ![Spring Boot 2.0](https://img.shields.io/badge/Spring%20Boot-2.0-brightgreen.svg)
